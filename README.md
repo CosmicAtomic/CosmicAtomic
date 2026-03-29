@@ -22,13 +22,6 @@ I'm a Computer Science student at the University of Lagos with a passion for bui
 
 ---
 
-### 📊 GitHub Stats
-
-![Moses's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CosmicAtomic&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicAtomic&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🏆 Featured Projects
 
 Here are a few milestones from my backend development journey. I have thoroughly documented, refactored, and deployed the logic to solidify my understanding of web architecture.
