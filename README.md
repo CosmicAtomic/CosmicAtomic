@@ -34,15 +34,6 @@ Here are a few milestones from my backend development journey. I have thoroughly
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CosmicAtomic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicAtomic&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ### 📫 Let's Connect
 
 *   **LinkedIn:** [linkedin.com/in/moses-ogunade](https://www.linkedin.com/in/moses-ogunade/)
