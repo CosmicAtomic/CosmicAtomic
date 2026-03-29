@@ -2,9 +2,7 @@
 
 **Backend Developer | CS Student at UNILAG | Building Real-World Projects**
 
-I am a Computer Science student at the University of Lagos (UNILAG) with a strong passion for building clean, efficient, and scalable backend systems. I am currently transitioning from building backend applications with Flask to mastering scalable backend architecture with Django.
-
-I believe the best way to learn is by building, which is why I am currently focused on project-driven development and following the [roadmap.sh/backend](https://roadmap.sh/backend) curriculum to solidify my engineering knowledge.
+I'm a Computer Science student at the University of Lagos with a passion for building clean, efficient backend systems. I learn by building — currently focused on project-driven development and following the [roadmap.sh/backend](https://roadmap.sh/backend) curriculum to solidify my engineering knowledge.
 
 ### 🔭 Currently Working On & Learning
 *   🏗️ **Building:** An automated **Internship Scraper** using Python and Django to aggregate tech opportunities.
@@ -15,11 +13,19 @@ I believe the best way to learn is by building, which is why I am currently focu
 
 ### 💻 Tech Stack & Tools
 
-*   **Backend Frameworks:** Python, Flask, Django (Currently Learning)
+*   **Languages:** Python
+*   **Backend Frameworks:** Flask, Django (Learning)
 *   **Databases & ORMs:** SQLite, SQLAlchemy
 *   **Web Scraping & Automation:** BeautifulSoup, Selenium
 *   **Frontend Basics:** HTML, CSS, Bootstrap
 *   **Tools & Concepts:** RESTful APIs, Git, Environment Variables (dotenv), JSON
+
+---
+
+### 📊 GitHub Stats
+
+![Moses's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CosmicAtomic&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicAtomic&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
