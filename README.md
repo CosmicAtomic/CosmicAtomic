@@ -2,19 +2,14 @@
 
 **Backend Developer | CS Student at UNILAG | Building Real-World Projects**
 
-I'm a Computer Science student at the University of Lagos with a passion for building clean, efficient backend systems. I learn by building — currently focused on project-driven development and following the [roadmap.sh/backend](https://roadmap.sh/backend) curriculum to solidify my engineering knowledge.
-
-### 🔭 Currently Working On & Learning
-*   🏗️ **Building:** An automated **Internship Scraper** using Python and Django to aggregate tech opportunities.
-*   📚 **Learning:** Advanced Django architecture, ORM optimization, and backend design patterns.
-*   🎓 **Certifying:** Working towards my freeCodeCamp Python Certification.
+I'm a Computer Science student at the University of Lagos with a passion for building clean, efficient backend systems. I learn by building — currently focused on project-driven development.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 *   **Languages:** Python
-*   **Backend Frameworks:** Flask, Django (Learning)
+*   **Backend Frameworks:** Flask
 *   **Databases & ORMs:** SQLite, SQLAlchemy
 *   **Web Scraping & Automation:** BeautifulSoup, Selenium
 *   **Frontend Basics:** HTML, CSS, Bootstrap
