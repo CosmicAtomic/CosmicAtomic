@@ -1,36 +1,140 @@
-# Hi there, I'm Moses! 👋
+<!--
+  GitHub Profile README — Moses (CosmicAtomic)
+-->
 
-**Backend Developer | CS Student at UNILAG | Building Real-World Projects**
+<div align="left">
 
-I'm a Computer Science student at the University of Lagos with a passion for building clean, efficient backend systems. I learn by building — currently focused on project-driven development.
 
----
+# Hi there, I'm Moses 👋
 
-### 💻 Tech Stack & Tools
+### `Backend Developer` • `CS Student @ UNILAG`
 
-*   **Languages:** Python
-*   **Backend Frameworks:** Flask
-*   **Databases & ORMs:** SQLite, SQLAlchemy
-*   **Web Scraping & Automation:** BeautifulSoup, Selenium
-*   **Frontend Basics:** HTML, CSS, Bootstrap
-*   **Tools & Concepts:** RESTful APIs, Git, Environment Variables (dotenv), JSON
+</div>
 
----
+I build backend systems — APIs, databases, and the services behind them. Currently a CS student at the University of Lagos, learning by shipping real projects.
 
-### 🏆 Featured Projects
-
-Here are a few milestones from my backend development journey. I have thoroughly documented, refactored, and deployed the logic to solidify my understanding of web architecture.
-
-*   [**Flask Blog Capstone**](https://github.com/CosmicAtomic/Flask-Blog-Application): A fully functional multi-user blog engine featuring secure authentication (password hashing/salting), relational database mapping, and a rich-text editor.
-*   [**Flight Deal Finder**](https://github.com/CosmicAtomic/Flight-Deal-Finder): An OOP-based automation script that integrates Amadeus, Sheety, and Twilio APIs to track live flight data and send SMS/Email alerts for cheap tickets.
-*   [**Cafe & Wifi REST API**](https://github.com/CosmicAtomic/cafe-wifi-api): A custom backend API built with Flask that allows users to perform full CRUD operations on a database of remote-work cafes.
-*   [**Password Manager GUI**](https://github.com/CosmicAtomic/password-manager): A secure desktop application using Tkinter and JSON serialization to generate and locally store encrypted credentials.
+- 🎓 &nbsp;Computer Science @ University of Lagos
+- 💻 &nbsp;Backend Engineer in Progress
 
 ---
 
-### 📫 Let's Connect
+## 📊 &nbsp;GitHub Stats
 
-*   **LinkedIn:** [linkedin.com/in/moses-ogunade](https://www.linkedin.com/in/moses-ogunade/)
-*   **Email:** [mosess.ogunade@gmail.com](mailto:mosess.ogunade@gmail.com)
+<div align="center">
 
-*"🚀 Currently open to backend internship and volunteer opportunities."*
+<img height="165" src="https://github-readme-stats-two-liard-67.vercel.app/api?username=CosmicAtomic&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CosmicAtomic&theme=radical&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicAtomic&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## ⚡ &nbsp;Tech Stack & Toolchain
+
+<table align="center">
+  <tr>
+    <td valign="top" width="25%">
+      <h4 align="center">Languages</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,go,ts,js&perline=3" />
+      </p>
+    </td>
+    <td valign="top" width="25%">
+      <h4 align="center">Backend & Frameworks</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&perline=4" />
+      </p>
+    </td>
+    <td valign="top" width="25%">
+      <h4 align="center">Databases & Search</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=3" />
+        <br/>
+      </p>
+    </td>
+    <td valign="top" width="25%">
+      <h4 align="center">DevOps & Tools</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=docker,git,vscode&perline=3" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 &nbsp;Featured Project
+
+**Insighta** — a demographic intelligence platform. Three repos, one ecosystem: a backend API powering two clients (CLI and web).
+
+<div align="center">
+
+<a href="https://github.com/CosmicAtomic/insighta-platform">
+  <img src="https://github-readme-stats-two-liard-67.vercel.app/api/pin/?username=CosmicAtomic&repo=insighta-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="insighta-platform" />
+</a>
+<a href="https://github.com/CosmicAtomic/insighta-cli">
+  <img src="https://github-readme-stats-two-liard-67.vercel.app/api/pin/?username=CosmicAtomic&repo=insighta-cli&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="insighta-cli" />
+</a>
+<a href="https://github.com/CosmicAtomic/insighta-web">
+  <img src="https://github-readme-stats-two-liard-67.vercel.app/api/pin/?username=CosmicAtomic&repo=insighta-web&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="insighta-web" />
+</a>
+
+</div>
+
+<details open>
+<summary><b>🧠 Inside the Insighta ecosystem</b></summary>
+
+<br/>
+
+**Platform features**
+- 🔐 &nbsp;GitHub OAuth authentication
+- 🔄 &nbsp;JWT access / refresh token flow
+- 🔍 &nbsp;Natural language search
+- 📊 &nbsp;CSV ingestion / export
+- 🐘 &nbsp;PostgreSQL persistence
+
+**Repos**
+- **`insighta-platform`** — FastAPI microservice. The backend that does the heavy lifting.
+- **`insighta-cli`** — Command-line client for power users and scripting.
+- **`insighta-web`** — Lightweight responsive web client built with vanilla JS.
+
+</details>
+
+---
+
+## 🛠️ &nbsp;Currently Building
+
+### 🚗 P2P Car Sharing Platform API
+
+A scalable backend for peer-to-peer car rentals. Using it to deepen my TypeScript and grow more comfortable with production-grade backend tooling.
+
+`Express.js` &nbsp; `TypeScript` &nbsp; `MongoDB` &nbsp; `Redis` &nbsp; `Docker` &nbsp; `Paystack`
+
+---
+
+## 📚 &nbsp;Currently Learning
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=ts" /><br/>
+      <b>TypeScript</b><br/>
+    </td>
+    <td align="center" width="50%">
+      🧩<br/>
+      <b>Data Structures & Algorithms</b><br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+**[CosmicAtomic](https://github.com/CosmicAtomic)** &nbsp;🪐
+
+</div>
