@@ -10,8 +10,10 @@
 ### `Backend Developer` • `CS Student @ UNILAG`
 
 </div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&width=435&lines=Building+APIs+and+Backend+Systems;Learning+by+Shipping+Projects;FastAPI+%7C+PostgreSQL+%7C+TypeScript" />
 
-I build backend systems — APIs, databases, and the services behind them. Currently a CS student at the University of Lagos, learning by shipping real projects.
+I build backend systems — APIs, authentication flows, databases, and the services behind them.  
+Currently learning through project-driven development and focused on building scalable, production-style applications.
 
 - 🎓 &nbsp;Computer Science @ University of Lagos
 - 💻 &nbsp;Backend Engineer in Progress
