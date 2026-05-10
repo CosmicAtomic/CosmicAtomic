@@ -27,8 +27,6 @@ I build backend systems — APIs, databases, and the services behind them. Curre
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicAtomic&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true" alt="Activity Graph" />
-
 </div>
 
 ---
