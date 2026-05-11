@@ -40,7 +40,7 @@ Currently learning through project-driven development and focused on building sc
     <td valign="top" width="25%">
       <h4 align="center">Languages</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,go,ts,js&perline=3" />
+        <img src="https://skillicons.dev/icons?i=python,ts,js&perline=3" />
       </p>
     </td>
     <td valign="top" width="25%">
