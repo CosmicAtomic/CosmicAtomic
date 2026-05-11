@@ -74,13 +74,13 @@ Currently learning through project-driven development and focused on building sc
 <div align="center">
 
 <a href="https://github.com/CosmicAtomic/insighta-platform">
-  <img src="https://github-readme-stats-two-liard-67.vercel.app/api/pin/?username=CosmicAtomic&repo=insighta-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="insighta-platform" />
+  <img src="https://github-readme-stats-two-liard-67.vercel.app/api/pin/?username=CosmicAtomic&repo=insighta-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&v=1" alt="insighta-platform" />
 </a>
 <a href="https://github.com/CosmicAtomic/insighta-cli">
-  <img src="https://github-readme-stats-two-liard-67.vercel.app/api/pin/?username=CosmicAtomic&repo=insighta-cli&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="insighta-cli" />
+  <img src="https://github-readme-stats-two-liard-67.vercel.app/api/pin/?username=CosmicAtomic&repo=insighta-cli&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&v=1" alt="insighta-cli" />
 </a>
 <a href="https://github.com/CosmicAtomic/insighta-web">
-  <img src="https://github-readme-stats-two-liard-67.vercel.app/api/pin/?username=CosmicAtomic&repo=insighta-web&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="insighta-web" />
+  <img src="https://github-readme-stats-two-liard-67.vercel.app/api/pin/?username=CosmicAtomic&repo=insighta-web&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&v=1" alt="insighta-web" />
 </a>
 
 </div>
